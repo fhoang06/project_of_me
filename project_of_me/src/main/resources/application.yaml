@@ -1,0 +1,4 @@
+#logging:
+#  level:
+#    com.example.projectofme.controller: DEBUG
+#    root: DEBUG
